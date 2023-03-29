@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "raunak",
+      "email": "raunak@gmail.com",
+      "mobile": 9970607851,
+      "city": "pune"
+    },
+    {
+      "id": 3,
+      "name": "vinay",
+      "email": "viany@gmail.com",
+      "mobile": 8097603271,
+      "city": "solapur"
+    },
+    {
+      "id": 4,
+      "name": "ganesh",
+      "email": "ganesh@gmail.com",
+      "mobile": 8097603271,
+      "city": "banglore"
+    },
+    {
+      "id": 5,
+      "name": "mahesh",
+      "email": "mahesh@gmail.com",
+      "mobile": 4499494949,
+      "city": "daund"
+    },
+    {
+      "id": 6,
+      "name": "vishal",
+      "email": "vishal@gmail.com",
+      "mobile": 8989887676,
+      "city": "pune"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

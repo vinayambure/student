@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "name": "vinY",
+      "email": "KNDK@GMAIL.COM",
+      "mobile": 992929929292,
+      "city": "SDSDS"
+    },
+    {
+      "id": 3,
+      "name": "vinay",
+      "email": "viany@gmail.com",
+      "mobile": 8097603271,
+      "city": "solapur"
+    },
+    {
+      "id": 4,
+      "name": "fdf",
+      "email": "vinay@gmail.com",
+      "mobile": 80976544,
+      "city": "solapur"
+    },
+    {
+      "id": 5,
+      "name": "rahul",
+      "email": "rahul@gmail.com",
+      "mobile": 8097603271,
+      "city": "pune"
+    },
+    {
+      "id": 6,
+      "name": "amit",
+      "email": "amit@gmail.com",
+      "mobile": 709988765,
+      "city": "nagpur"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
